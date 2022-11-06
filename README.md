@@ -1,5 +1,5 @@
 <h4 align="left">Oppp opp, teka muna ✋</h4> <h3 align="left">Hellooo, my name is Leslie!</h3>
-<p align="left">I'm a designer turned developer. I'm a newbie in tech and just recently graduated from a coding bootcamp. Today, I continue to self-study programming learning resources along with taking self-paced courses in Computer Science. Currently, I work as an entry-level Software Engineer specializing in unit testing with React + TypeScript.</p>
+<p align="left">I'm a designer turned developer. I'm a newbie in tech and just recently graduated from a <a href="https://www.upliftcodecamp.com/" target="_blank">coding bootcamp</a>. Today, I continue to self-study programming learning resources along with taking self-paced courses in Computer Science. Currently, I work as an entry-level Software Engineer specializing in unit testing with React + TypeScript.</p>
 
 - 🌱 I’m currently taking [**CS50**](https://cs50.harvard.edu/) 🐱🧩
 
