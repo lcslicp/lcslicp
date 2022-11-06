@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently taking [**CS50**](https://cs50.harvard.edu/) 🐱🧩
 
-- 💬 Ask me about **Shifting careers, coding bootcamps, self-learning resources, or anything about visual design! (Adobe, perhaps?)**
+- 💬 Ask me about **Shifting careers, coding bootcamps, self-learning resources in coding, or anything about visual design! (Adobe, perhaps?)**
 
 - 👨‍💻 Checkout my website portfolio: [https://lesliepn.info/](https://lesliepn.info/)
 
