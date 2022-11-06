@@ -1,7 +1,7 @@
 <h4 align="left">Oppp opp, teka muna ✋</h4> <h3 align="left">Hellooo, my name is Leslie!</h3>
 <p align="left">I'm a designer turned developer. I'm a newbie in tech and just recently graduated from a coding bootcamp. Today, I continue to self-study programming learning resources along with taking self-paced courses in Computer Science. Currently, I work as an entry-level Software Engineer specializing in unit testing with React + TypeScript.</p>
 
-- 🌱 I’m currently taking [**CS50 🐱🧩**](https://cs50.harvard.edu/)
+- 🌱 I’m currently taking [**CS50**] 🐱🧩(https://cs50.harvard.edu/)
 
 - 💬 Ask me about **Shifting careers, coding bootcamps, self-learning resources, or anything about visual design! (Adobe, perhaps?)**
 
