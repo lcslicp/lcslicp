@@ -1,5 +1,5 @@
 <h3 align="left">Hellooo, my name is Leslie!</h3>
-<p align="left">I'm a designer && developer.</p>
+<p align="left">I'm a full stack developer.</p>
 
 - 👨‍💻 Checkout my website portfolio: [https://lesliepn.info/](https://lesliepn.info/)
 
