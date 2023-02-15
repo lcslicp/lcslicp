@@ -1,5 +1,5 @@
 <h1 align="left">Hellooo, my name is Leslie! Nice to see you here. 😄</h1>
-<h3 align="left">I'm a full stack developer specializing in React, TypeScript and Node.js.</h3>
+<h3 align="left">I'm a Full Stack Developer specializing in React, TypeScript and Node.js.</h3>
 
 - 💻 Right now, I'm working on a News Website as a personal project. It should be up before March this year.
 - 🚧 My 2023 website portfolio is still under construction. For now, you can checkout my current one: <a href="https://lesliepn.info/" target="_blank">https://lesliepn.info/</a>
