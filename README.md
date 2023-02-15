@@ -1,9 +1,12 @@
-<h3 align="left">Hellooo, my name is Leslie!</h3>
-<p align="left">I'm a full stack developer.</p>
+<h3 align="left">Hellooo, my name is Leslie! Nice to see you here. 😄</h3>
+<p align="left">I'm a full stack developer specializing in React, TypeScript and Node.js.</p>
 
-- 👨‍💻 Checkout my website portfolio: [https://lesliepn.info/](https://lesliepn.info/)
+- 💻 I'm currently working on a News Website. It should be up before March this year.
+- 🚧 My 2023 website portfolio is still under construction. For now, you can checkout my current one: [https://lesliepn.info/](https://lesliepn.info/)
+- **I'm currently looking for a full time job as a Software Developer. Maybe you can help me out?**
+- 📫 You can best reach me through: **contactlespino@gmail.com**. P.S. I check my email regularly, I'll response as soon as I can! 
 
-- 📫 You can best reach me through: **contactlespino@gmail.com**
+**Thanks for visiting!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
