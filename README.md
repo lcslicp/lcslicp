@@ -1,7 +1,7 @@
 <h1 align="left">Hellooo, my name is Leslie! Nice to see you here. 😄</h1>
 <h3 align="left">I'm a Full Stack Developer specializing in React, TypeScript and Node.js.</h3>
 
-- 💻 Right now, I'm working on a News Website as a personal project. It should be up before March this year.
+- 💻 The latest project I worked on is a News Website - [NowNews](https://nownewsite.netlify.app/). It's demo site will be up before the end of Feb this year.
 - 🚧 My 2023 website portfolio is still under construction. For now, you can checkout my current one: <a href="https://lesliepn.info/" target="_blank">https://lesliepn.info/</a>
 - 👀 **I'm currently looking for a full time position as a Software Developer. Maybe you can help me out?**
 - 📫 You can best reach me through: **contactlespino@gmail.com**.
