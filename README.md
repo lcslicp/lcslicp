@@ -1,4 +1,4 @@
-<h1 align="left">Hellooo, my name is Leslie! Nice to see you here. 😄</h1>
+<h1 align="left">Hi, my name is Leslie!</h1>
 <h3 align="left">I'm a Full Stack Developer specializing in React, TypeScript and Node.js.</h3>
 
 - 💻 The latest project I worked on is a News Website - [NowNews](https://nownewsite.netlify.app/).
