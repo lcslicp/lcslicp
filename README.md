@@ -6,7 +6,7 @@
 - 🚧 My 2023 website portfolio is still under construction. For now, you can checkout my current one: <a href="https://lesliepn.info/" target="_blank">https://lesliepn.info/</a>
 - 👀 **I'm currently looking for a full time position as a Software Developer. Maybe you can help me out?**
 - 📫 You can best reach me through: **contactlespino@gmail.com**.
-*P.S. I do check my email regularly, I'll respond as soon as I can!*
+* I'll respond as soon as I can!*
 
 **Thanks for visiting, have a great day! (or night!)** 
 
