@@ -5,8 +5,7 @@
 - ⚙️ I'm currently working on reconfiguring a past full-stack project. It should be up before the end of March.
 - 🚧 My 2023 website portfolio is still under construction. For now, you can checkout my current one: <a href="https://lesliepn.info/" target="_blank">https://lesliepn.info/</a>
 - 👀 **I'm currently looking for a full time position as a Software Developer. Maybe you can help me out?**
-- 📫 You can best reach me through: **contactlespino@gmail.com**.
-* I'll respond as soon as I can!*
+- 📫 You can best reach me through: **contactlespino@gmail.com**. *I'll respond as soon as I can!*
 
 **Thanks for visiting, have a great day! (or night!)** 
 
