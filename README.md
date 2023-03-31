@@ -3,7 +3,7 @@
 
 - **Featured project:**
     - [NowNews](https://nownews.lesliepn.info/) - new website consuming data from an external API.
-- **Website Portfolio:** <a href="https://lesliepn.info/" target="_blank">https://lesliepn.info/</a>
+- **Website Portfolio:** <a href="[https://lesliepn.info/](https://2022.lesliepn.info/)" target="_blank">https://lesliepn.info/</a>
 - **Contact Me:** contactlespino@gmail.com
 
 <h3 align="left">Connect with me:</h3>
