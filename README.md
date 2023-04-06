@@ -2,7 +2,8 @@
 <h3 align="left">I'm a Full Stack Developer specializing in React, TypeScript and Node.js.</h3>
 
 - **Featured project:**
-    - [NowNews](https://nownews.lesliepn.info/) - new website consuming data from an external API.
+    - [Doowit](https://doowit.lesliepn.info/) - Personal Task Management App.
+    - [NowNews](https://nownews.lesliepn.info/) - News Website.
 - **Website Portfolio:** [https://2022.lesliepn.info/](https://2022.lesliepn.info/)
 - **Contact Me:** contactlespino@gmail.com
 
