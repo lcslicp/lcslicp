@@ -4,7 +4,7 @@
 - **Featured projects:**
     - [Doowit](https://doowit.lesliepn.info/) - Personal Task Management App
     - [NowNews](https://nownews.lesliepn.info/) - News Website
-- **Website Portfolio:** [https://2022.lesliepn.info/](https://2022.lesliepn.info/)
+- **Website Portfolio:** [https://lesliepn.info/](https://lesliepn.info/)
 - **Contact Me:** contactlespino@gmail.com
 
 <h3 align="left">Connect with me:</h3>
