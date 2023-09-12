@@ -1,10 +1,5 @@
 <h1 align="left">Hi, my name is Leslie!</h1>
 <h3 align="left">I'm a Full Stack Developer specializing in React, TypeScript and Node.js.</h3>
-
-- **Featured projects:**
-    - [Doowit](https://doowit.lesliepn.info/) - Personal Task Management App
-    - [NowNews](https://nownews.lesliepn.info/) - News Website
-- **Website Portfolio:** [https://lesliepn.info/](https://lesliepn.info/)
 - **Contact Me:** contactlespino@gmail.com
 
 <h3 align="left">Connect with me:</h3>
