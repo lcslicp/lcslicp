@@ -1,7 +1,9 @@
 <h1 align="left">Hi, my name is Leslie!</h1>
 <h3 align="left">I'm a Full Stack Developer specializing in React, TypeScript and Node.js.</h3>
 
-- **Contact Me:** contactlespino@gmail.com
+- **Contact Me:**
+- lcslicp.dev@gmail.com
+- contactlespino@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
